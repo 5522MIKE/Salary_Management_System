@@ -2,12 +2,13 @@
 
 // TODO
 
+// 每人建立自己的分支 
 
 ## 目录结构
 
 ```
-├── java/ # java源文件
-	├──example.java  # 范例源文件
+├── JAVA/ # java源文件
+	├──javaStandard.md  # java范例
 ├── UML/ # UML文件
 	├──薪酬系统-实践.asta  # 范例建模
 ├── README.md

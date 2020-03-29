@@ -12,7 +12,7 @@ import java.util.Vector;
  * @author MikyMing
  * @data 2020/3/26 - 19:46
  */
-public class UserDao {
+public class userDao {
 
     private User user = null;
 

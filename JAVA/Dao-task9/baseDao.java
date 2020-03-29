@@ -10,7 +10,7 @@ import java.util.Vector;
  * @data 2020/3/26 - 19:45
  */
 
-public class BaseDao {
+public class baseDao {
 
     private static Connection con;
 

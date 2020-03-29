@@ -21,5 +21,9 @@ class javaHelloWorld{}
 ```
 
 3. 使用UTF8进行编码
+
 4. JDK版本：11
-5. mysql 版本：8.0 user：sms password：123456
+
+5. mysql 版本：8.0 
+
+   user：sms password：123456

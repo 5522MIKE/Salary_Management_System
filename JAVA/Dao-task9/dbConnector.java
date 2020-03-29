@@ -9,7 +9,7 @@ import java.sql.SQLException;
  * @author MikyMing
  * @data 2020/3/26 - 19:45
  */
-public class DbConnector {
+public class dbConnector {
     private Connection con;
     private String dbDriver="com.mysql.jdbc.Driver";
     private String dbUser ="root";

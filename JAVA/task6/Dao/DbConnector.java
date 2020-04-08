@@ -10,7 +10,7 @@ public class DbConnector {
 	private String dbUser ="root";
 	private String dbPsw ="123456";
 	private String dbUrl ="jdbc:mysql://localhost:3306/xcglxt";
-	
+
 	public Connection getConnection()
 	{
 		try {
